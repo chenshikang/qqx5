@@ -1,0 +1,211 @@
+﻿字母	等级	歌名	歌手
+A	7	Apple Is A	T-ara
+A	7	爱不得 恨不得 舍不得	胡彦斌
+A	7	爱投罗网	罗志祥
+B	6	Bad Girl	吴亦凡
+B	6	Bo Peep Bo Peep	T-ara
+B	6	BONAMANA	Super Junior
+B	6	Booty Music	Git Fresh
+B	6	Born This Way	Lady Gaga
+B	6	Boys	Charli XCX
+B	6	白骑士	QQ炫舞原创
+B	7	Baby Boy	王心凌
+B	7	Bing Bing	Crayon Pop
+B	7	被遗忘的天使	萧忆情
+B	7	表白	萧亚轩
+B	7	不可思议	金莎
+C	6	藏不住	BY2/萧秉治
+C	7	Chilli	SEVENTEEN
+D	6	当你	林俊杰
+D	7	Defiance	雨宮天
+D	7	Digital World	Amaranthe
+D	7	Doraradora	Fujigami Mai
+E	6	Enough	GOT7
+E	7	Everything I Need	Skylar Grey
+G	6	Good Time	Owl City
+H	6	Here With You	Asher Book
+H	6	喊出我的名字	创造营2019学员
+H	7	坏掉的大人	陈势安
+H	7	坏女孩	陈嘉桦
+I	6	I Love You	玉泽演/吴映洁
+I	6	I Love You	EXID
+J	6	Just Dance	Lady GaGa
+J	6	Just Dance	王一博
+K	6	KNOCK KNOCK	TWICE
+L	6	Ladybees	蜜蜂少女队
+L	6	Long Kiss Good Bye	Halcali
+L	6	Look What You Made Me Do	Taylor Swift
+L	6	LOVE IT LIVE IT	YDPP
+L	6	恋爱循环	花泽香菜
+L	6	铃兰(QQ炫舞手游原创音乐)	埋葬&优十
+L	6	零之相册(QQ炫舞手游原创音乐)	埋葬&优十
+L	6	绿色	陈雪凝
+L	7	Landing	温岚
+L	7	Love So Soft	Kelly Clarkson
+L	7	荔枝声界	QQ炫舞手游
+L	7	凉凉(困难版)	杨宗纬/张碧晨
+L	7	两双	谢安琪/吉克隽逸
+M	6	Maps	Maroon 5
+M	6	Mimimi	Serebro
+M	6	梦想时代(QQ炫舞系列主题曲)	刘人语/罗奕佳/苏芮琪
+M	6	莫名奇妙爱上你	朱主爱
+M	7	冒险蓝图	Chic Chili
+M	7	没有选择	胡彦斌
+N	6	No	CLC
+N	6	Numb	Linkin Park
+N	6	你的声音不会消失	fumika
+N	6	你的微笑	飞儿乐团
+N	6	粘人精	圈9/谣君/新乐尘符
+N	7	narrative	泽野弘之/LiSA
+N	7	Not Another Song About Love	Hollywood Ending
+O	7	偶像万万岁	TimeZ
+P	6	Poker Face	Lady Gaga
+Q	6	期待	Girl's Day
+Q	6	乞丐	摩登兄弟
+Q	6	青花引	Ace组合
+Q	7	七年的爱	金贤政
+R	6	Rage Your Dream	M.O.V.E
+S	6	Slow It Down	Charlie Puth
+S	6	盛装游行	back number
+S	7	傻呆呆	BY2
+S	7	什么什么	蔡依林
+S	7	斯诺克	付辛博
+T	6	Telephone	Lady GaGa
+T	6	Timber	Pitbull
+T	6	太过爱你	MC梦
+T	7	The New Kings	Vicetone/Popeska/Luciana
+W	6	What Do You Mean?	Justin Bieber
+W	6	What if(QQ炫舞手游原创音乐)	TetraCalyx
+W	6	What Makes You Beautiful	One Direction
+W	6	Wolves	Selena Gomez/Marshmello
+W	6	Wonderland	gugudan
+W	6	王妃	萧敬腾
+W	6	往后余生	王贰浪
+W	6	望	张碧晨/赵丽颖
+W	7	What U Do to Me	Roshelle
+W	7	我们的歌	王力宏
+W	7	我要给世界最悠长的湿吻 Kisses For The World	蔡健雅
+X	6	小情歌	苏打绿
+X	6	小星星	汪苏泷
+X	6	幸福的节拍	杨丞琳
+X	6	炫舞	陈伟霆
+X	7	炫舞国度	BOX.COM
+Y	6	鹦鹉	任然
+Y	6	越来越近	苏醒
+Y	7	YESTERDAY	Block B
+Y	7	You Are My Only One	袁娅维/小宇
+Y	7	月光传说	桃色幸运草Z
+Z	6	再快乐一点	张韶涵
+Z	6	再遇不到你这样的人	庄心妍
+Z	6	最近	王小帅
+字母	等级	歌名	歌手
+*	8	ヒトガタ	HIMEHINA
+*	9	[A]ddiction	EVO+
+*	9	101个愿望	火箭少女101杨超越/火箭少女101赖美云/火箭少女101傅菁
+*	9	123我爱你(困难版)	新乐尘符
+*	9	オメガリズム	UPLIFT SPICE
+*	9	ペガサス幻想	MAKE-UP
+A	9	曖昧スクリーム	平野绫
+B	8	Be My Baby	Wonder Girls
+B	8	Brave Heart	宮崎歩
+B	8	Bright Spring	M2U
+B	8	Bubble Pop!	泫雅
+B	9	Butter Fly	和田光司
+C	8	Chain	NCT 127
+C	8	chAngE	miwa
+C	8	CLEAR	坂本真綾
+C	8	Colourful	Virginia To Vegas
+C	8	春夏秋冬	Sumika
+C	9	Candy Pop	TWICE
+C	9	Crash	The Primitives
+C	10	Crossing Field	LiSA
+D	8	DANCE DANCE	Day6
+D	8	Dear Future Husband	Meghan Trainor
+D	8	Don't Leave Me	防弹少年团
+D	8	等待	黄龄
+D	9	Dancing on	FTISLAND
+D	9	Dear Brave	鹿乃
+D	9	大艺术家(困难版)	蔡依林
+D	10	Dura	Daddy Yankee
+E	9	Electroheart	Amaranthe
+F	8	Faded(困难版)	Alan Walker
+F	8	Fight For You	潘玮柏
+F	8	Firefly	Abba Teens
+F	8	风云喜	李常超
+F	10	Flower Dance(困难版)	DJ OKAWARI
+G	8	Get Cool	Stray Kids
+G	8	Glimmer	祈Inory
+G	9	Gee	少女时代
+G	9	更新	Sabão
+G	10	Get It On The Floor	DMX
+H	8	Hacking to the Gate	伊藤加奈子
+H	8	Happy Song	南征北战NZBZ
+H	8	Hey Baby 你是我的	李佳薇
+H	8	Hypnotic	Zella Day
+H	8	好想大声说喜欢你	BAAD
+H	8	换世奇恋	排骨教主
+H	8	换我陪你	炎亚纶
+H	8	火花	高耀太
+H	8	火炎	女王蜂
+H	9	HUSTLE	陈梓童
+I	8	I Want My Tears Back	NIGHT WISH
+I	9	I Knew You Were Trouble	Taylor Swift
+J	8	JELLY JELLY	TWICE
+J	8	Just Like Fire	P!nk
+J	8	寂静之空	傅许
+J	8	禁绝边境线	Walküre
+J	8	境界の彼方	茅原実里
+J	9	君にふれて	安月名莉子
+K	9	卡农	Pachelbel
+K	9	空想神话	妖精帝国
+K	10	克罗地亚第二狂想曲	Various Artists
+K	10	克罗地亚狂想曲	马克西姆
+L	8	L.I.E	EXID
+L	8	恋人募集中	天月-あまつき-
+L	9	恋のパーフェクト微分方程式	ユウノウミ
+L	10	林中鸟(困难版)	葛林
+M	8	MK Circus	Dough-Boy/王嘉尔
+M	8	My Song	花泽香菜
+M	10	MY舞☆TONIGHT	Aqours
+N	8	你，有没有过	林俊杰
+N	8	你和我的一天	水濑祈
+N	9	NIGHT OF FIRE	森永真由美/浜田ブリトニー
+N	9	No Joke	罗志祥
+N	10	Naruto Main Theme	六三四
+P	8	PIRI	Dreamcatcher
+P	8	偏偏	Sihan/银临
+P	8	僕は僕であって	angela/fripSide
+P	10	Play 我呸	蔡依林
+Q	8	前尘	SING女团
+Q	9	青鸟	生物股长
+R	8	Rolling Star	YUI
+R	8	Rookie	Red Velvet
+R	9	Rightfully	Mili
+S	8	So Good	Red Velvet
+S	8	Somebody Told Me	Charlie Puth
+S	8	SUNSET	TWICE
+S	8	SUPERMOON	HIROOMI TOSAKA
+S	8	生而倔强	熊汝霖
+S	9	Scarlet Faith	仲村芽衣子
+S	9	SHIORI	ClariS
+S	9	Sparkling Daydream	ZAQ
+S	9	SWEET TALKER	TWICE
+T	8	Take My Hand	Simple Plan
+T	8	to the beginning	Kalafina
+T	9	the WORLD	Nightmare
+T	9	太烦恼	杨丞琳
+T	10	天樂	和楽器バンド
+U	9	UNION	OxT
+V	10	Victory(困难版)	Bond
+W	8	Why So Lonely	Wonder Girls
+W	9	Wake up!	AAA
+W	9	Whistle(困难版)	Flo Rida
+W	9	无可取代	李雪岩
+X	8	像暗杀似的绕到背后突然拥抱你	太一
+X	9	星月夜	和楽器バンド
+Y	8	一吻天荒	胡歌
+Y	8	雲を抜けた青空	Da-iCE
+Y	9	邮递马车	Hermann Necke
+Z	9	Zillion Lights	めらみぽっぷ
+Z	9	直到世界终结(困难版)	WANDS
+Z	10	ZastiZ(QQ炫舞手游原创音乐)	JurokuNeta
